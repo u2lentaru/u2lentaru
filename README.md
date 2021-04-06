@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me u2@lenta.ru
+- 📫 You can reach me via email u2@lenta.ru
 
 <!---
 u2lentaru/u2lentaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
