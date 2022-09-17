@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **u2@lenta.ru**
 
-<h3 align="left">Connect with me: [billing backend](https://github.com/u2lentaru/billbck)[t.me/u2lru](https://t.me/u2lru)</h3>
+<h3 align="left">Connect with me: https://t.me/u2lru</h3>
 <p align="left">
 </p>
 
