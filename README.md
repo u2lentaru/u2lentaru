@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **u2@lenta.ru**
 
-<h3 align="left">Connect with me: t.me/u2lru</h3>
+<h3 align="left">Connect with me: [t.me/u2lru](https://t.me/u2lru)</h3>
 <p align="left">
 </p>
 
