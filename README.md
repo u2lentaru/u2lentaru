@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u2lentaru&label=Profile%20views&color=0e75b6&style=flat" alt="u2lentaru" /> </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=u2lentaru)](https://git.io/streak-stats)
 - 🔭 I’m currently working on [billing backend](https://github.com/u2lentaru/billbck)
 
 - 👨‍💻 All of my projects are available at [https://github.com/u2lentaru](https://github.com/u2lentaru)
